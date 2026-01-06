@@ -74,7 +74,9 @@ Alur kerja MVC dimulai saat pengguna meminta data melalui tampilan (View).
 Permintaan tersebut diterima oleh Controller, lalu Controller meminta data ke Model.
 Setelah data diproses oleh Model, hasilnya dikirim kembali ke Controller untuk
 ditampilkan oleh View.
-</p>
+</p> 
+<img width="592" height="366" alt="image" src="https://github.com/user-attachments/assets/f2104682-87a3-4398-8aef-d7fd3dc2adbb" />
+
 
 <h4>6. MANFAAT MVC</h4>
 <ul>
